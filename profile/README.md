@@ -1,7 +1,7 @@
 <div align="center">
 
 <!-- Replace this placeholder with your actual logo -->
-<img src="./img/logo.png" alt="Vaelthar Logo" width="120" height="120">
+<img src="./logo.png" alt="Vaelthar Logo" width="120" height="120">
 
 # Vaelthar
 
